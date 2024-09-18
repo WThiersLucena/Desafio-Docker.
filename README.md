@@ -30,4 +30,4 @@ docker run --rm WThiersLucena/codeeducation
 ```
 
 # Link da imagen no dockerhub
-$  https://hub.docker.com/r/WThiersLucena/exercicioGo
+https://hub.docker.com/r/WThiersLucena/exercicioGo
